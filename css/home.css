@@ -1,0 +1,48 @@
+
+#vertical0{
+
+	float: left;
+	background-color:376b83;
+}
+
+.home{
+	float: left;
+}
+#body1{
+	height: 105%;
+}
+
+
+#body2{
+    font-size: 16px;
+	float: right;
+
+}
+#body3{
+
+	background-color:376b83;
+	float: left;
+	
+}
+#body4{
+
+	float: left;
+	background-color:376b83;
+
+}
+
+
+h2{
+	font:bold;
+	font-style: italic;
+}
+h5{
+	font-style: italic;
+	color: grey;
+	font-family: arial;
+}
+footer{
+	color:white;
+	text-align: center;
+	clear: both;
+}
