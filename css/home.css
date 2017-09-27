@@ -31,7 +31,11 @@ background-color:376b83;
 }
 
 #body1{
+	
+	width: 2%;
 	height: 105%;
+	background-color:376b83;
+	float: right;
 }
 
 
