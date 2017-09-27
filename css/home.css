@@ -1,4 +1,12 @@
-
+.main_container{
+   
+	margin: auto auto auto auto;
+    width: 1350px;
+    height: 1500px;
+    min-height: 40%;
+    min-width: 40%;
+   
+}
 #vertical0{
 
 	float: left;
