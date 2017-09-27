@@ -57,7 +57,9 @@ background-color:376b83;
 }
 #body4{
 
-	float: left;
+    float: left;
+	width: 30%;
+	height: 75%;
 	background-color:376b83;
 
 }
