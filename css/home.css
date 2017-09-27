@@ -18,6 +18,12 @@
 h1{
 	color:058fbe;
 }
+#vertical0{
+	width: 5%;
+	height: 105%;
+	float: left;
+	background-color:376b83;
+}
 #header{
 width: 100%;
 height: 3%;
