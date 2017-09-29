@@ -26,10 +26,50 @@ display: block;
 width: 100%;
 height: 96%;
 }
-nav{
+#nav{
+  background-color: black;
+}
+#nav ul li a:link{
+background-color: grey;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+#nav ul li a:visited{
+  background-color: grey;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#nav ul li a:hover{
+  background-color: grey;
+  color: white;
+  text-decoration: underline;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+
+}
+#nav ul li a:active{
+  background-color: grey;
+  color: maroon;
+}
+#nav ul li{
   position: relative;
+  display: inline;
   width: 100%;
   height: 5%;
+  font: bold;
+  padding-right: 30px;
+  margin-left: 5px;
+}
+#nav ul li a{
+  text-transform: uppercase;
+  font-size: 20px;
+  text-decoration: none;
+  color: gray;
 }
 #body{
 width: 100%;
