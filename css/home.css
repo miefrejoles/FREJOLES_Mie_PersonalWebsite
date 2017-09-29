@@ -1,51 +1,33 @@
+
 .main_container{
-   
-	margin: auto auto auto auto;
     width: 1350px;
     height: 1500px;
     min-height: 40%;
     min-width: 40%;
-   
+    -moz-box-shadow: 5px 5px 10px 20px #777777;
+    -webkit-box-shadow: 5px 5px 10px 5px #777777;
+     box-shadow: 5px 5px 10px 5px #777777;
+     background-color: white;
 }
-#vertical0{
+ #vertical0{
 
 	float: left;
-	background-color:376b83;
-}
-.home{
-	float: left;
+	background-color:black;
 }
 h1{
 	color:058fbe;
 }
-#vertical0{
-	width: 5%;
-	height: 105%;
-	float: left;
-	background-color:376b83;
-}
+
 #header{
 width: 100%;
 height: 3%;
-background-color:376b83;
+background-color:black;
 }
-
-#body1{
-	
-	width: 2%;
-	height: 105%;
-	background-color:376b83;
-	float: right;
-}
-
-
-#body2{
-    font-size: 16px;
-    font-color:376b83;
-	width: 55%;
-	height:70%;
-	float: right;
-
+#vertical0{
+	width: 5%;
+	height: 95%;
+	float: left;
+	background-color:black;
 }
 .body-param-inline{
     display: inline-block;
@@ -59,22 +41,46 @@ background-color:376b83;
 	margin-left: 5%;
 	margin-right: 5%;
 }
-#body3{
 
-    background-color:376b83;
+.home{
+	float: left;
+}
+#body1{
+
+	width: 2%;
+	height: 95%;
+	background-color:black;
+	float: right;
+}
+
+
+#body2{
+    font-size: 16px;
+    font-color:376b83;
+	width: 55%;
+	height:70%;
+	float: right;
+	background-color: white;
+
+}
+#body3{
+    
+	background-color:black;
 	width: 30%;
 	height: 30%;
 	float: left;
 	
 }
 #body4{
-
-    float: left;
+    
+	float: left;
 	width: 30%;
-	height: 75%;
-	background-color:376b83;
+	height: 65%;
+	background-color:black;
 
 }
+
+
 .parampam{
     margin: 5% 5% 5% 5%;
     text-align: justify;
@@ -83,7 +89,14 @@ background-color:376b83;
 	font-family:arial;
 
 }
-
+a{
+	text-decoration: none;
+}
+.one{
+	font-size: 25px;
+	color: black;
+	font-style: italic;
+}
 h2{
 	font:bold;
 	font-style: italic;
@@ -97,4 +110,7 @@ footer{
 	color:white;
 	text-align: center;
 	clear: both;
+	width: 100%;
+	height: 4%;
+	background-color:black;
 }
