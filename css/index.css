@@ -19,6 +19,7 @@ html{
     -webkit-box-shadow: 5px 5px 10px 5px #777777;
      box-shadow: 5px 5px 10px 5px #777777;
 }
+
 iframe{
 border-style: none;
 float:center;
@@ -26,6 +27,17 @@ display: block;
 width: 100%;
 height: 96.3%;
 }
+#puppy{
+  background-color: black;
+}
+#puppy ul li a:link{
+background-color: grey;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
 #nav{
   background-color: black;
 }
