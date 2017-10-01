@@ -1,20 +1,20 @@
 
 html{
    background-image: url(../images/2.jpg);
-   width: 1600px;
+   width: 1300px;
    height: 1600px;
    background-repeat: no-repeat;
 
 }
 
 .main_container{
-   
-    margin: auto auto auto auto ;
+ 
+
+    margin-right: auto;
+    margin-left: auto;  
     background-repeat:no-repeat;
-    width: 1350px;
-    height: 1500px;
-    min-height: 40%;
-    min-width: 40%;
+    width: 1200px;
+    height: 1350px;
     -moz-box-shadow: 5px 5px 10px 20px #777777;
     -webkit-box-shadow: 5px 5px 10px 5px #777777;
      box-shadow: 5px 5px 10px 5px #777777;
